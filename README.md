@@ -32,8 +32,8 @@ Includes spending data for:
 ---
 
 ## Dashboard Preview
-![Dashboard_1](dashboard_1.png)
-![Dashboard_2](dashboard_2.png)
+![Dashboard_1](Dashboard_1.png)
+![Dashboard_2](Dashboard_2.png)
 
 ---
 
